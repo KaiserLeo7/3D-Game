@@ -1,12 +1,15 @@
 # 3D-Game
 
+Multiplayer Game - Quick Turrets
 
+AI that walk to enemy base
 
-Complex AI
-Base Building
-Survival Aspects
-Vehicles
+turret Building
+
 Shooting
-Resource Gathering
-Inventory Management
+
+Resource Gathering Nodes To be Captured and Upgraded
+
+Upgrades - Weapons, Abilities, Armor, Turrets Resource Nodes
+
 Physics Based
