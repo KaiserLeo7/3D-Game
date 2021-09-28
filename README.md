@@ -17,6 +17,11 @@ Different types of turrets
   -more vs players, more vs nps and more vs turrets
 -turrets can be upgraded
   -upgraded turrets are increased in size
+  
+  
+AI that walk to enemy base
+-needs pathing
+-walks to enemy base in lane and shoots enemies along the way
 
 Resource Gathering Nodes To be Captured and Upgraded
 -gain by killing enemies npc, players and capturable areas\
@@ -33,11 +38,6 @@ FPS
 -pistol, smg, shotgun and sniper, maybe rocket launcher, grenades
 -buy guns with resources
 -Player dies, they respawn back at their base after a set amount of time
-
-AI that walk to enemy base
--needs pathing
--walks to enemy base in lane and shoots enemies along the way
--
 
 Physics Based
 -jumping, gravity
